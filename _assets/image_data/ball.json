@@ -1,0 +1,17 @@
+{
+  "name": "ball",
+  "file_name": "ball.jpg",
+  "file_type": "image/jpeg",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053503/ball.jpg",
+  "tags": "",
+  "file_size": 6802.0,
+  "width": 259,
+  "height": 194,
+  "description": "",
+  "date_added": "2017-10-26-053503",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053503/large_ball.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053503/medium_ball.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053503/small_ball.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053503/xsmall_ball.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053503/thumb_ball.jpg"
+}
