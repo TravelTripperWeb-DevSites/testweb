@@ -1,0 +1,17 @@
+{
+  "name": "butterfly",
+  "file_name": "butterfly.jpg",
+  "file_type": "image/jpeg",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053636/butterfly.jpg",
+  "tags": "",
+  "file_size": 11476.0,
+  "width": 259,
+  "height": 194,
+  "description": "",
+  "date_added": "2017-10-26-053636",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053636/large_butterfly.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053636/medium_butterfly.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053636/small_butterfly.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053636/xsmall_butterfly.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053636/thumb_butterfly.jpg"
+}
