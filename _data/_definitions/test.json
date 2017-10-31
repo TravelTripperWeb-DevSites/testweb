@@ -1,0 +1,9 @@
+{
+  "name": {
+    "required": true
+  },
+  "Upload": {
+    "type": "image",
+    "required": true
+  }
+}

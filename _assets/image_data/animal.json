@@ -1,0 +1,17 @@
+{
+  "name": "animal",
+  "file_name": "animal.jpg",
+  "file_type": "image/jpeg",
+  "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053433/animal.jpg",
+  "tags": "",
+  "file_size": 11241.0,
+  "width": 259,
+  "height": 194,
+  "description": "",
+  "date_added": "2017-10-26-053433",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053433/large_animal.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053433/medium_animal.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053433/small_animal.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053433/xsmall_animal.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_1_7/media/2017-10-26-053433/thumb_animal.jpg"
+}
